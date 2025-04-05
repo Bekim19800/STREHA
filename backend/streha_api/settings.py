@@ -1,1 +1,1 @@
-// placeholder content for streha_api/settings.py
+ALLOWED_HOSTS = ['your-backend-name.onrender.com']
