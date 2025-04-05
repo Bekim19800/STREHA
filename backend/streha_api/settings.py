@@ -1,0 +1,1 @@
+// placeholder content for streha_api/settings.py
