@@ -1,1 +1,1 @@
-// placeholder content for streha_api/__init__.py
+# This file marks the directory as a Python package
