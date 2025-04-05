@@ -7,6 +7,5 @@ def listings(request):
     ]
     return JsonResponse(data, safe=False)
 
-# Optional: add this if you want to fix 500 on /
 def index(request):
     return HttpResponse("Backend up and running.")
