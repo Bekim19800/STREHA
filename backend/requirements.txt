@@ -1,3 +1,1 @@
-Django>=4.2
-gunicorn
-django-cors-headers
+pip install -r requirements.txt
