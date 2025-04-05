@@ -1,6 +1,6 @@
-ALLOWED_HOSTS = ['streha.onrender.com']
-
 ROOT_URLCONF = 'streha_api.urls'
+
+ALLOWED_HOSTS = ['streha.onrender.com']
 
 INSTALLED_APPS = [
     'corsheaders',
@@ -23,5 +23,4 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-# Enable CORS so React frontend can access API
 CORS_ALLOW_ALL_ORIGINS = True
